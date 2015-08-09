@@ -4,7 +4,7 @@ Plugin Name: tinySource
 Plugin URI: http://studio.tiny.lt/plugins/tinysource
 Description: Simple tool to note text source
 Author: tinyStudio
-Version: 0.2.0
+Version: 0.2.1
 Author URI: http://studio.tiny.lt/
 */
 

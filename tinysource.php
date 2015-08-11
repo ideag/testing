@@ -2,7 +2,7 @@
 /* 
 Plugin Name: tinySource
 Plugin URI: http://studio.tiny.lt/plugins/tinysource
-Description: Simple tool to note text source.
+Description: Simple tool to note text source. Not
 Author: tinyStudio
 Version: 0.2.3
 Author URI: http://studio.tiny.lt/
